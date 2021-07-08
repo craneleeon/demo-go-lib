@@ -1,5 +1,5 @@
 package fake
 
-func GreetingFromFakeFn() {
+func GreetingFromFakeFn() string {
 	return "Hi, This is fake$!!!!"
 }
